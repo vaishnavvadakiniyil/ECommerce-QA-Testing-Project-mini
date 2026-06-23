@@ -1,1 +1,0 @@
-# ECommerce-QA-Testing-Project-mini
