@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="ProductAPITestSuite">
+
+    <test name="Product API Tests">
+
+        <classes>
+            <class name="com.etp.Testng"/>
+        </classes>
+
+    </test>
+
+</suite>
